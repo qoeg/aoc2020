@@ -1,7 +1,3 @@
-using System;
-using System.Collections;
-using System.Collections.Generic;
-
 namespace Aoc2020
 {
     partial class Day9 : Day
